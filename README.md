@@ -1,7 +1,7 @@
 state_view.js
 =============
 
-A simple function pattern for setting states.
+A simple functional pattern for setting states.
 
 Usage
 -----
