@@ -7,7 +7,7 @@ Usage
 -----
 
     var MyView = function (spec) {
-        var that = StateView(sec);
+        var that = StateView(spec);
         
         that.stateOpen = function () {
         }
